@@ -1,4 +1,7 @@
-
+# Project: Expense Tracker
+# Installment 1: The Landing Page
+# Author: Allen Brent S. Mañago
+# Description: Displays the landing page of a console expense tracker.
 
 print("=" * 40)
 print("\tEXPENSE TRACKER\n\tKnow where your money goes.")
